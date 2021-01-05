@@ -1,0 +1,4 @@
+1. Open Original ROM and JustMe.i64
+2. Export it as "s1proto.asm"
+3. Replace every "($FF" in s1proto.asm with "($FFFF"
+4. Run _Assemble.bat
